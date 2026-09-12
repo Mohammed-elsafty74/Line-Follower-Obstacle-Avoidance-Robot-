@@ -28,7 +28,6 @@
 - [Demonstration](#demonstration)
 - [Future Improvements](#future-improvements)
 - [Author](#author)
-- [License](#license)
 
 ---
 
